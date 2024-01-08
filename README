@@ -1,0 +1,6 @@
+
+```
+brew install ffmpeg
+pip install opencv-python numpy Pillow moviepy
+videoruin <sourcceDir> <targetDir> --width <width> --height <height>
+```
